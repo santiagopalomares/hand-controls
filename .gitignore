@@ -1,0 +1,3 @@
+video_player
+
+#Santiagos-Air:hand-controls tiago$ g++ -std=c++11 -o video_player main.cpp `pkg-config --cflags --libs opencv4`
